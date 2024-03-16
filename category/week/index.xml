@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Week | Academic</title>
+    <link>http://localhost:1313/category/week/</link>
+      <atom:link href="http://localhost:1313/category/week/index.xml" rel="self" type="application/rss+xml" />
+    <description>Week</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Week</title>
+      <link>http://localhost:1313/category/week/</link>
+    </image>
+    
+    <item>
+      <title>Неделя 11-17 марта</title>
+      <link>http://localhost:1313/post/week1/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/week1/</guid>
+      <description>&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+&lt;p&gt;На этой неделе я решил сфокусироваться на изучении классов в C++. Они представляли для меня определённый вызов, но я справился. Практиковался на различных задачах, и каждый раз, когда код работал правильно, это был настоящий праздник для меня.&lt;/p&gt;
+&lt;h2 id=&#34;изучение-интерфейса-unix&#34;&gt;Изучение интерфейса Unix&lt;/h2&gt;
+&lt;p&gt;Также эта неделя была посвящена изучению интерфейса Unix на уровне командной строки. Я начал с основных команд и постепенно двигался к более сложным задачам. Хотя это было непросто в начале, но с течением времени я стал более уверенным в работе с терминалом Unix.&lt;/p&gt;
+&lt;h2 id=&#34;физическая-активность&#34;&gt;Физическая Активность&lt;/h2&gt;
+&lt;p&gt;На прошлой неделе я продолжил заниматься спортом. Регулярные посещения зала помогли сохранить форму и поддержать энергию. После тренировок я всегда чувствовал себя бодрым и готовым к новым задачам.&lt;/p&gt;
+&lt;h2 id=&#34;python-и-число-пи&#34;&gt;Python и число Пи&lt;/h2&gt;
+&lt;p&gt;В добавок, я погрузился в изучение методов нахождения числа π и освоил написание программ на Python для его вычисления. Это был увлекательный взгляд в мир математики и программирования, который расширил мой кругозор и открыл новые возможности.&lt;/p&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Моя неделя была наполнена разнообразными занятиями, и я чувствую, что проделал огромную работу. Несмотря на несколько моментов напряжения, я нашел радость в учебе, спорте и новых знаниях. Это подтверждает, что продуктивность и стремление к саморазвитию помогают сделать каждый день особенным и насыщенным.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
