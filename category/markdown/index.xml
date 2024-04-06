@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Academic</title>
+    <link>http://localhost:1313/category/markdown/</link>
+      <atom:link href="http://localhost:1313/category/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Markdown</title>
+      <link>http://localhost:1313/category/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Что такое язык разметки Markdown?</title>
+      <link>http://localhost:1313/post/markdown/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;погружение-в-мир-markdown-простота-и-эффективность&#34;&gt;Погружение в мир Markdown: Простота и Эффективность&lt;/h2&gt;
+&lt;p&gt;Сегодня я хочу поговорить с вами о языке разметки Markdown. Если вы когда-либо сталкивались с написанием текстов для веб-страниц, блогов или документации, то, вероятно, слышали о Markdown. Этот язык разметки стал неотъемлемой частью жизни многих программистов, блогеров и писателей благодаря своей простоте и эффективности.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown — это легковесный язык разметки, который позволяет быстро и легко форматировать текст, добавляя структуру и стиль. Одним из ключевых преимуществ Markdown является его простота. В отличие от сложных систем разметки, таких как HTML, Markdown использует простые символы и синтаксис, что делает его быстрым в освоении даже для новичков.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Простота использования: Markdown основан на обычном тексте, поэтому его легко понять и использовать. Вы можете начать писать в Markdown всего за несколько минут.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Поддержка везде: Многие платформы, такие как GitHub, Reddit, и Stack Overflow, поддерживают разметку Markdown, что делает его универсальным инструментом для создания контента для интернета.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Гибкость: В Markdown можно использовать различные уровни заголовков, списки, цитаты, изображения, ссылки и многое другое, делая его подходящим для широкого спектра задач.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Читаемость: Код в Markdown легко читается в исходном виде. Это делает его идеальным для совместной работы и поддержки документации проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Markdown — это мощный и удобный инструмент для создания структурированного контента в интернете. Независимо от того, пишете ли вы код, статьи или документацию, Markdown поможет вам сделать это быстро и эффективно. Если вы еще не знакомы с Markdown, рекомендую попробовать его и убедиться в его удобстве самостоятельно!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
